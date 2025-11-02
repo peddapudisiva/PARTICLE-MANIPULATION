@@ -1,0 +1,13 @@
+{
+  "camera_index": 0,
+  "width": 1280,
+  "height": 720,
+  "particles": 400,
+  "blur": 1.4,
+  "alpha": 0.8,
+  "particle_size": 2,
+  "show_gradient": false,
+  "show_webcam": false,
+  "palette": 2,
+  "mirror": true
+}

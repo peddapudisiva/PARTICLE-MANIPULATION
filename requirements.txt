@@ -1,0 +1,6 @@
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+numpy==1.26.4
+sounddevice==0.4.7
+# Optional alternative to sounddevice (not used by default in the script):
+# PyAudio==0.2.14
