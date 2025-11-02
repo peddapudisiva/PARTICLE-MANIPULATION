@@ -1,5 +1,14 @@
 # AI Particle Manipulation
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.9%E2%80%933.12-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-orange)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hands-purple)
+![Last Commit](https://img.shields.io/github/last-commit/peddapudisiva/PARTICLE-MANIPULATION)
+![Issues](https://img.shields.io/github/issues/peddapudisiva/PARTICLE-MANIPULATION)
+![Stars](https://img.shields.io/github/stars/peddapudisiva/PARTICLE-MANIPULATION?style=social)
+
 Real-time, interactive particle art controlled by your hands and microphone. Uses OpenCV for rendering, MediaPipe Hands for tracking, and NumPy for fast particle physics. Includes a settings panel and resilient camera handling.
 
 ## Features
