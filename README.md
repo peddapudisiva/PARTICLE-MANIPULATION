@@ -8,6 +8,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/peddapudisiva/PARTICLE-MANIPULATION)
 ![Issues](https://img.shields.io/github/issues/peddapudisiva/PARTICLE-MANIPULATION)
 ![Stars](https://img.shields.io/github/stars/peddapudisiva/PARTICLE-MANIPULATION?style=social)
+![CI](https://github.com/peddapudisiva/PARTICLE-MANIPULATION/actions/workflows/ci.yml/badge.svg)
 
 Real-time, interactive particle art controlled by your hands and microphone. Uses OpenCV for rendering, MediaPipe Hands for tracking, and NumPy for fast particle physics. Includes a settings panel and resilient camera handling.
 
